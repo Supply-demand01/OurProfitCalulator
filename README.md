@@ -5,3 +5,5 @@ and GetBothPrices2.py. When you run Runitall2.py it asks for tx hashes and shoul
 as an argument to GetAllBlockTransactions2.py and GetBothPrices2.py, as these are the only ones that need it. But when I
 run the code it only does one tx hash and then ends instead of iterating through all of them.
 Fix dat. safe.
+
+Bonus points if you can also also get the  unique contract address for GetAllBlockTransactions2.py as sometimes a tx hash will have a different contract address from another.
